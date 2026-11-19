@@ -1,0 +1,194 @@
+[
+  {
+    "filename": "01_HC3理论基础_异方差一致协方差估计_White_1980_期刊版.pdf",
+    "doi": "10.2307/1912934",
+    "version": "期刊扫描版",
+    "pages": 23,
+    "bytes": 553407,
+    "sha256": "2ba38f3f36ad691ca4ef7ddb36ef76b25b0d81794600b13406e8e12295316f61",
+    "download_date": "2026-11-05",
+    "supporting_information": "not_requested",
+    "source_record": {
+      "version": 2,
+      "generated_at": "2026-11-05T07:44:36.409Z",
+      "request": {
+        "topic": "",
+        "title": "White 1980 Heteroskedasticity Consistent Covariance",
+        "dois": [],
+        "pdf_url": "https://crooker.faculty.unlv.edu/econ441/econ_papers/White-Heteroskedasticity-Correction-1980.pdf",
+        "si_requested": false,
+        "language_override": "",
+        "route_override": "",
+        "source_url": "",
+        "api_fallback_web": null,
+        "api_fallback_web_for": [],
+        "no_api_fallback_web_for": []
+      },
+      "summary": {
+        "total": 1,
+        "downloaded": 1,
+        "seconds": 1.5
+      },
+      "results": [
+        {
+          "title": "White 1980 Heteroskedasticity Consistent Covariance",
+          "status": "open_access_downloaded",
+          "provider": "direct_url",
+          "accessMode": "open_access",
+          "ok": true,
+          "file": ".tmp\\hc3_download\\white\\PDFs\\White_1980_Heteroskedasticity_Consistent_Covariance.pdf",
+          "bytes": 553407,
+          "sha256": "2ba38f3f36ad691ca4ef7ddb36ef76b25b0d81794600b13406e8e12295316f61",
+          "contentType": "application/pdf",
+          "format": "pdf",
+          "source": "https://crooker.faculty.unlv.edu/econ441/econ_papers/White-Heteroskedasticity-Correction-1980.pdf",
+          "si_requested": false
+        }
+      ]
+    }
+  },
+  {
+    "filename": "02_HC3方法来源_有限样本修正与Jackknife_MacKinnon_White_1985_工作论文修订稿.pdf",
+    "doi": "10.1016/0304-4076(85)90158-7",
+    "version": "工作论文修订稿，原始工作论文1983年，1985年修订",
+    "pages": 25,
+    "bytes": 682263,
+    "sha256": "3c7ff1f5d1a8c34eb64a39d9d909a2fd0da18d3b564c86c34d9faf75c6af2429",
+    "download_date": "2026-11-05",
+    "supporting_information": "not_requested",
+    "source_record": {
+      "version": 2,
+      "generated_at": "2026-11-05T07:44:47.498Z",
+      "request": {
+        "topic": "",
+        "title": "mackinnon HC3 reference",
+        "dois": [],
+        "pdf_url": "https://www.econstor.eu/bitstream/10419/189084/1/qed_wp_0537.pdf",
+        "si_requested": false,
+        "language_override": "",
+        "route_override": "",
+        "source_url": "",
+        "api_fallback_web": null,
+        "api_fallback_web_for": [],
+        "no_api_fallback_web_for": []
+      },
+      "summary": {
+        "total": 1,
+        "downloaded": 1,
+        "seconds": 4.3
+      },
+      "results": [
+        {
+          "title": "mackinnon HC3 reference",
+          "status": "open_access_downloaded",
+          "provider": "direct_url",
+          "accessMode": "open_access",
+          "ok": true,
+          "file": ".tmp\\hc3_download\\mackinnon\\PDFs\\mackinnon_HC3_reference.pdf",
+          "bytes": 682263,
+          "sha256": "3c7ff1f5d1a8c34eb64a39d9d909a2fd0da18d3b564c86c34d9faf75c6af2429",
+          "contentType": "application/pdf",
+          "format": "pdf",
+          "source": "https://www.econstor.eu/bitstream/10419/189084/1/qed_wp_0537.pdf",
+          "si_requested": false
+        }
+      ]
+    }
+  },
+  {
+    "filename": "03_HC3应用选择_稳健标准误版本比较_Long_Ervin_2000_作者1999年修订稿.pdf",
+    "doi": "10.1080/00031305.2000.10474549",
+    "version": "作者1999年修订稿，存档于原Indiana大学作者网站，期刊发表年2000",
+    "pages": 22,
+    "bytes": 255126,
+    "sha256": "aefcc57ace805c2710bbd64494d6288ffcd95b1b5370efc96c51f8a7659d75c0",
+    "download_date": "2026-11-05",
+    "supporting_information": "not_requested",
+    "source_record": {
+      "version": 2,
+      "generated_at": "2026-11-05T07:49:45.389Z",
+      "request": {
+        "topic": "",
+        "title": "Long Ervin HC3 author manuscript archived",
+        "dois": [],
+        "pdf_url": "https://web.archive.org/web/20170808045719id_/http://www.indiana.edu/~jslsoc/files_research/testing_tests/hccm/99TAS.pdf",
+        "si_requested": false,
+        "language_override": "",
+        "route_override": "",
+        "source_url": "",
+        "api_fallback_web": null,
+        "api_fallback_web_for": [],
+        "no_api_fallback_web_for": []
+      },
+      "summary": {
+        "total": 1,
+        "downloaded": 1,
+        "seconds": 0.8
+      },
+      "results": [
+        {
+          "title": "Long Ervin HC3 author manuscript archived",
+          "status": "open_access_downloaded",
+          "provider": "direct_url",
+          "accessMode": "open_access",
+          "ok": true,
+          "file": ".tmp\\hc3_download\\long_archive\\PDFs\\Long_Ervin_HC3_author_manuscript_archived.pdf",
+          "bytes": 255126,
+          "sha256": "aefcc57ace805c2710bbd64494d6288ffcd95b1b5370efc96c51f8a7659d75c0",
+          "contentType": "application/pdf",
+          "format": "pdf",
+          "source": "https://web.archive.org/web/20170808045719id_/http://www.indiana.edu/~jslsoc/files_research/testing_tests/hccm/99TAS.pdf",
+          "si_requested": false
+        }
+      ]
+    }
+  },
+  {
+    "filename": "04_HC3适用边界_中心内相关与聚类推断_Cameron_Miller_2015_作者稿.pdf",
+    "doi": "10.3368/jhr.50.2.317",
+    "version": "作者公开稿",
+    "pages": 53,
+    "bytes": 513747,
+    "sha256": "a2d6ef5622b5597ef2c18dd53d700c6b2ffbadaa4c202af0e21ddc0520072214",
+    "download_date": "2026-11-05",
+    "supporting_information": "not_requested",
+    "source_record": {
+      "version": 2,
+      "generated_at": "2026-11-05T07:44:57.001Z",
+      "request": {
+        "topic": "",
+        "title": "cameron HC3 reference",
+        "dois": [],
+        "pdf_url": "https://cameron.econ.ucdavis.edu/research/Cameron_Miller_JHR_2015_February.pdf",
+        "si_requested": false,
+        "language_override": "",
+        "route_override": "",
+        "source_url": "",
+        "api_fallback_web": null,
+        "api_fallback_web_for": [],
+        "no_api_fallback_web_for": []
+      },
+      "summary": {
+        "total": 1,
+        "downloaded": 1,
+        "seconds": 1.9
+      },
+      "results": [
+        {
+          "title": "cameron HC3 reference",
+          "status": "open_access_downloaded",
+          "provider": "direct_url",
+          "accessMode": "open_access",
+          "ok": true,
+          "file": ".tmp\\hc3_download\\cameron\\PDFs\\cameron_HC3_reference.pdf",
+          "bytes": 513747,
+          "sha256": "a2d6ef5622b5597ef2c18dd53d700c6b2ffbadaa4c202af0e21ddc0520072214",
+          "contentType": "application/pdf",
+          "format": "pdf",
+          "source": "https://cameron.econ.ucdavis.edu/research/Cameron_Miller_JHR_2015_February.pdf",
+          "si_requested": false
+        }
+      ]
+    }
+  }
+]
